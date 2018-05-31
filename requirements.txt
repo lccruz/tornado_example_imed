@@ -1,0 +1,4 @@
+backports-abc==0.5
+six==1.11.0
+tornado==5.0.2
+websocket-client==0.48.0
