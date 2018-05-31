@@ -10,7 +10,7 @@ git clone https://github.com/lccruz/tornado_example_imed.git
 pip install virtualenv
 virtualenv -p python3 env
 source env/bin/activate
-cd tornado_exemple_imed
+cd tornado_example_imed
 pip install -r requirements.txt
 ```
 
